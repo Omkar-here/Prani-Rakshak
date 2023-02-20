@@ -1,6 +1,6 @@
 ﻿﻿![Image of Logo](templates/logo.png)
 
-# Jeev Rakshak
+# Prani Rakshak
 Wildlife Species Identification using client-side Neural Networks
 
 
