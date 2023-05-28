@@ -3,6 +3,7 @@
 # Prani Rakshak
 Wildlife Species Identification using client-side Neural Networks
 
+You can view the demo [here](https://omkar-anabathula-prani-rakhshak.netlify.app/).
 
 <!-- ![Jeev Rakshak Demo](templates/demo.gif) -->
 
@@ -40,11 +41,11 @@ We have implemented the following features as a part of this system:
 * A React web app which can process input images and videos as well as a Realtime feature which uses the device camera to process frames and display the result on a canvas.
 * The model for classification and detection have a size of 8.6 MB respectively, which it makes it easy and faster to load. The models are saved in the Indexed DB after loading them for the first time.
 # Website
-![Image of ](templates/JR-1.PNG)
-![Image of Landing](templates/JR-2.PNG)
-![Image of Landing](templates/JR-3.PNG)
-![Image of Landing](templates/JR-4.PNG)
-![Image of Landing](templates/JR-5.PNG)
+<!-- ![Image of ](templates/JR-1.PNG) -->
+<!-- ![Image of Landing](templates/JR-2.PNG) -->
+<!-- ![Image of Landing](templates/JR-3.PNG) -->
+<!-- ![Image of Landing](templates/JR-4.PNG) -->
+<!-- ![Image of Landing](templates/JR-5.PNG) -->
 ![Image of Landing](templates/JR-6.PNG)
 ![Image of Landing](templates/Polar.PNG)
 
